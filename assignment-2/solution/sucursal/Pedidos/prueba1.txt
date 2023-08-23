@@ -1,0 +1,5 @@
+{"id_cuenta": 1, "tipo": "SUMA", "cantidad": 10}
+{"id_cuenta": 1, "tipo": "SUMA", "cantidad": 10}
+{"id_cuenta": 1, "tipo": "SUMA", "cantidad": 10}
+{"id_cuenta": 1, "tipo": "SUMA", "cantidad": 10}
+{"id_cuenta": 1, "tipo": "SUMA", "cantidad": 10}

@@ -1,0 +1,13 @@
+[package]
+name = "compartido"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "^1", features = ["full"] }
+quote = "1.0.27"
+tokio-stream = { version = "^0.1.14", features = ["io-util"] }
+actix = "0.13.0"
+actix-rt = "2.0" # <-- Runtime for actix

@@ -1,0 +1,2 @@
+{"id_cuenta": 1, "tipo": "RESTA", "cantidad": 100000}
+{"id_cuenta": 1, "tipo": "RESTA", "cantidad": 10000}

@@ -1,0 +1,21 @@
+[package]
+name = "tp1"
+version = "0.1.0"
+edition = "2021"
+authors = ["Federico Jose Pacheco <fpacheco@fi.uba.ar>"]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7"
+log = "0.4"
+env_logger = "0.10.0"
+itertools = "0.10.0"
+dotenv = "0.15.0"
+
+[dev-dependencies]
+mockall = "0.10.2"
+
+[target.'cfg(loom)'.dependencies]
+loom = "0.5"
