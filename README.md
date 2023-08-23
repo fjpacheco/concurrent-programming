@@ -17,13 +17,13 @@ In addition, topics such as:
 
 In the subject, the **Rust programming** language is used, so all the code is written in this language.
 
-## First Assignment Work
+## First Assignment
 
 [[Statement](/assignment-1/README.md)] | [[Solution](/assignment-1/solution)]
 
 First Assignment work of the subject in which the five previously seen concurrency models are used.
 
-## Second Assignment Work
+## Second Assignment
 
 [[Statement](/assignment-2/README.md)] | [[Solution](/assignment-2/solution)]
 
